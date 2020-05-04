@@ -7,7 +7,7 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	background-size: 100% auto;
-	background-image: url("https://cdn.pixabay.com/photo/2012/03/01/00/28/abstract-19616_1280.jpg");
+	background-image: "images/abstract.jpg";
     background-repeat: repeat;
 }
 
