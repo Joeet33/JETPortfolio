@@ -7,7 +7,7 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	background-size: 100% auto;
-	background-image: "images/abstract.jpg";
+	background-image: url("images/abstract.jpg");
     background-repeat: repeat;
 }
 
