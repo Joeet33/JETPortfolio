@@ -7,7 +7,7 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	background-size: 100% auto;
-	background: url("images/abstract.jpg");
+	background-image: url("https://github.com/Joeet33/JETPortfolio/blob/master/images/abstract.jpg");
     background-repeat: repeat;
 }
 
